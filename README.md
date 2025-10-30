@@ -162,7 +162,7 @@ Create a `.env` or use your runtime environment for secrets:
 - Improved multi-tenant/topic configuration
 
 ---
-##Contributor
+## Contributor
 Balaji Jayaprakash - @balajijp8 (https://github.com/balajijp8-boop)
 ---
 
